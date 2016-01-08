@@ -11,7 +11,7 @@ You can install this package either with with `bower`.
 ### bower
 
 ```shell
-bower install angular
+bower install application-security
 ```
 
 Then add a `<script>` to your `index.html`:
@@ -23,7 +23,7 @@ Then add a `<script>` to your `index.html`:
 ## Documentation
 
 Documentation is available on the
-[AngularJS docs site](http://github.com/haighis/application-security/).
+[haighis application-security repo docs site](http://github.com/haighis/application-security/).
 
 ## License
 
