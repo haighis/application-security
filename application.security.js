@@ -2,7 +2,7 @@
 
 'use strict';
 
-var myModule = angular.module('application-security-module', []);
+var myModule = angular.module('application-security', []);
 myModule.provider('applicationSecurity', function() {
     var provider = this;
     
