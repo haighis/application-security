@@ -1,4 +1,4 @@
-# packaged angular
+# AngularJS Application Security Module
 
 This repo is for distribution on `bower`. The source for this module is in the
 [haighis application-security repo](https://github.com/haighis/application-security).
