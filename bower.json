@@ -1,0 +1,24 @@
+{
+  "name": "application-security",
+  "authors": [
+    "John Haigh"
+  ],
+  "description": "AngularJS module that provides simple application authorization.",
+  "main": "application-authorization.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "authorization",
+    "security"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/haighis/application-security",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
